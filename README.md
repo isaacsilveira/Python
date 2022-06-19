@@ -1,4 +1,4 @@
-# exercicios_python
+# Exercicios_python
 -Exercicios para treinar python
 -Exercicios feitos por mim para aprender python,alguns tirardos do Youtube
 -Exercises to train python
